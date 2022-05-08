@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-import RaidedGW2.app as gw2
+from . import RaidedGW2 as gw2
 import asyncio
 import datetime
 
